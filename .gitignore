@@ -1,0 +1,22 @@
+# Ignore backup Excel files
+*.xlsx~
+*.xlsm~
+*.xlsb~
+*.log
+
+# Ignore Python caches
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore R & MATLAB files
+.Rhistory
+*.m~
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Node.js/VS Code metadata
+node_modules/
+.vscode/
+.DS_Store
